@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="Night Coding" src="https://raw.githubusercontent.com/noesrichard/portfolio/master/src/assets/github-header-image.png" width="800" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/noesrichard/portfolio/master/src/assets/github-header-image.png" width="900" align="center"/>
 <br>
 
 <div>
