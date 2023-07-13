@@ -14,7 +14,7 @@
 <table>
   <tr>
         <td>
-            <h4>Languages</h4>
+            <h5>Languages</h5>
             <div>
             <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python"/>&nbsp;
             <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript"/>&nbsp;
@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>
-            <h4>Framework and Libraries</h4>
+            <h5>Framework and Libraries</h5>
             <div>
                 <img alt="" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react"/>&nbsp;
                 <img alt="" src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=HTML5"/>&nbsp;
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>
-            <h4>Tools and Others</h4>
+            <h5>Tools and Others</h5>
             <div>
                 <img alt="" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git"/>&nbsp;
                 <img alt="" src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker"/>&nbsp;
