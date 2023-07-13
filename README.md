@@ -1,8 +1,8 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/noesrichard/portfolio/master/src/assets/github-header-image.png" width="900" align="center"/>
+<div style="background-color: black; color: white">
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/noesrichard/portfolio/master/src/assets/github-header-image.png" width="800" align="center"/>
 <br>
 
-<div>
-</div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I love customizing my tools and develope others to automate my workflow.
 
 <table style="width:100%">
-  <tr>
+  <tr style="background: black; color: white">
         <td>
             <h5>Languages</h5>
             <div>
@@ -22,13 +22,14 @@
             <img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5"/>&nbsp;
             <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6"/>&nbsp;
             <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown"/>
+                <img alt="" src="https://img.shields.io/badge/-Latex-000000?style=flat&logo=latex"/>&nbsp;
             </div>
         </td>
         <td rowspan="4">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noesrichard&layout=donut-vertical&theme=dark"/>
         </td>
   </tr>
-  <tr>
+  <tr style="background: black; color: white">
     <td>
             <h5>Framework and Libraries</h5>
             <div>
@@ -40,13 +41,19 @@
             </div>
         </td>
   </tr>
-  <tr>
+  <tr style="background: black; color: white">
     <td>
             <h5>Tools and Others</h5>
             <div>
                 <img alt="" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git"/>&nbsp;
                 <img alt="" src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker"/>&nbsp;
-                <img alt="" src="https://img.shields.io/badge/-Latex-000000?style=flat&logo=latex"/>&nbsp;
+                <img alt="" src="https://img.shields.io/badge/-Neovim-000000?style=flat&logo=neovim"/>&nbsp;
+                <img alt="" src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux"/>&nbsp;
             </div>
   </tr>
 </table>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=noesrichard&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+</div>
