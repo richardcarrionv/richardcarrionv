@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I love customizing my tools and develope others to automate my workflow.
 
-<table>
+<table style="width:100%">
   <tr>
         <td>
             <h5>Languages</h5>
