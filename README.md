@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="Night Coding" src="https://raw.githubusercontent.com/noesrichard/portfolio/master/src/assets/github-header-image.png" width="900" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/noesrichard/portfolio/master/src/assets/github-header-image.png" width="800" align="center"/>
 <br>
 
 <div>
@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 🎓 &nbsp;I'm currently studying a Software Engineering degree at Univerisad Tecnica de Ambato.\
 🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I love customizing my tools and develope others to automate my workflow.
+
 <!-- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
 <!-- ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\ -->
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row">
     <div style="display: flex; flex-direction: column">
             <h3>Languages</h3>
             <div>
@@ -60,8 +61,9 @@ Here are some ideas to get you started:
                 <img alt="" src="https://img.shields.io/badge/-intellij-000000?style=flat&logo=jetbrains"/>&nbsp;
             </div>
     </div>
+    <div>
     <a href="https://github.com/noesrichard" style="margin-left:20px; padding-top: 40px" align="right" >
-      <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noesrichard&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noesrichard&langs_count=8&theme=dark"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noesrichard&layout=donut-vertical&theme=dark"/>
     </a>
+    </div>
 </div>
