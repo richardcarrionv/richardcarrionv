@@ -1,6 +1,6 @@
 <div style="background-color: black; color: white">
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/richardcarrionv/portfolio/master/src/assets/github-header-image.png" width="100%" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/richardcarrionv/richardcarrionv/header.jpg" width="100%" align="center"/>
 <br>
 
 
