@@ -65,8 +65,8 @@
   </tr>
 </table>
 <div style="display: flex; align-items: center; justify-content: center;">
-<img style="width: 430px" src="https://github-readme-streak-stats.herokuapp.com/?user=richardcarrionv&theme=tokyonight" alt="stat1">
-<img style="width: 430px" src="https://github-readme-stats.vercel.app/api?username=richardcarrionv&theme=tokyonight" alt="stat3">
+<img style="width: 410px" src="https://github-readme-streak-stats.herokuapp.com/?user=richardcarrionv&theme=tokyonight" alt="stat1">
+<img style="width: 410px" src="https://github-readme-stats.vercel.app/api?username=richardcarrionv&theme=tokyonight" alt="stat3">
 </div>
  
 </div>
