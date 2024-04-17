@@ -1,5 +1,5 @@
 <div style="background-color: black; color: white">
-<img alt="Hey! I'm Richard a Software Developer" src="https://raw.githubusercontent.com/richardcarrionv/richardcarrionv/master/personal-banner.png" width="100%" align="center"/>
+<img alt="Hey! I'm Richard a Software Developer" src="https://raw.githubusercontent.com/richardcarrionv/richardcarrionv/master/header.png" width="100%" align="center"/>
 <br>
 
 ### 👨🏻‍💻 &nbsp;About Me
