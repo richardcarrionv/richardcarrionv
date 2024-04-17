@@ -64,9 +64,9 @@
             </div>
   </tr>
 </table>
-<div style="display: flex; align-items: center; justify-content: center;">
+<p align=center>
 <img style="width: 430px" src="https://github-readme-streak-stats.herokuapp.com/?user=richardcarrionv&theme=tokyonight" alt="stat1">
 <img style="width: 390px" src="https://github-readme-stats.vercel.app/api?username=richardcarrionv&theme=tokyonight" alt="stat3">
-</div>
+</p>
  
 </div>
