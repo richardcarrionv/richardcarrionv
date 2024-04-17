@@ -1,6 +1,6 @@
 <div style="background-color: black; color: white">
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/noesrichard/portfolio/master/src/assets/github-header-image.png" width="100%" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/richardcarrionv/portfolio/master/src/assets/github-header-image.png" width="100%" align="center"/>
 <br>
 
 
@@ -26,7 +26,7 @@
             </div>
         </td>
         <td rowspan="4">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noesrichard&layout=donut-vertical&theme=dark"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcarrionv&layout=donut-vertical&theme=dark"/>
         </td>
   </tr>
   <tr style="background: black; color: white">
@@ -54,6 +54,6 @@
 </table>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=noesrichard&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=richardcarrionv&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
